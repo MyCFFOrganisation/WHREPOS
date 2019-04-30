@@ -1,2 +1,3 @@
 Content of the blob
 New line
+Line 3
